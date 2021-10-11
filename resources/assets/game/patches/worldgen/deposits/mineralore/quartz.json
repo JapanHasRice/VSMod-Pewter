@@ -1,0 +1,46 @@
+[
+  {
+    "op": "add",
+    "file": "game:worldgen/deposits/mineralore/quartz.json",
+    "path": "/0/childDeposits/-",
+    "value": {
+      "code": "antimony",
+      "triesPerChunk": 3,
+      "withOreMap": true,
+      "handbookPageCode": "item-nugget-nativeantimony",
+      "generator": "childdeposit-pointcloud",
+      "attributes": {
+        "randomTries": { "avg": 20 },
+        "placeblock": {
+          "code": "ore-*quartz_nativeantimony-{rock}",
+          "name": "grade",
+          "allowedVariants": ["poor", "medium", "rich", "bountiful"]
+        },
+        "radius": { "dist": "gaussian", "avg": 5, "var": 2 },
+        "thickness": { "dist": "invexp", "avg": 2, "var": 1 }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:worldgen/deposits/mineralore/quartz.json",
+    "path": "/0/childDeposits/-",
+    "value": {
+      "code": "stibnite",
+      "triesPerChunk": 4,
+      "withOreMap": true,
+      "handbookPageCode": "item-nugget-stibnite",
+      "generator": "childdeposit-pointcloud",
+      "attributes": {
+        "randomTries": { "avg": 20 },
+        "placeblock": {
+          "code": "ore-*quartz_stibnite-{rock}",
+          "name": "grade",
+          "allowedVariants": ["poor", "medium", "rich", "bountiful"]
+        },
+        "radius": { "dist": "gaussian", "avg": 5, "var": 2 },
+        "thickness": { "dist": "invexp", "avg": 2, "var": 1 }
+      }
+    }
+  }
+]

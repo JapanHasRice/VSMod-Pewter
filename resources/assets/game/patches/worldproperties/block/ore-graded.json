@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/ore-graded.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "quartz_nativeantimony"
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/ore-graded.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "quartz_stibnite"
+    }
+  }
+]

@@ -1,15 +1,15 @@
 {
   "type": "Code",
-  "name": "TEMPLATE",
-  "modid": "template",
+  "name": "Pewter",
+  "modid": "pewter",
   "version": "1.0.0",
-  "description": "A template project for Vintage Story modding.",
-  "website": "https://github.com/JapanHasRice/VSMod-TEMPLATE",
+  "description": "Adds pewter, an alloy containing antimony, and various items that can be made from it.",
+  "website": "https://github.com/JapanHasRice/VSMod-Pewter",
   "authors": [ "JapanHasRice" ],
   "contributors": [],
   "dependencies": {
-    "game": "",
-    "survival": ""
+    "game": "1.15.6",
+    "survival": "1.15.6"
   },
   "side": "Universal",
   "requiredOnClient": true

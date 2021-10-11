@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/ore-nugget.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "nativeantimony"
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/ore-nugget.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "stibnite"
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "op": "remove",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-*"
+  },
+  {
+    "op": "remove",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-medium-*"
+  },
+  {
+    "op": "remove",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-rich-*"
+  },
+  {
+    "op": "remove",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-*"
+  },
+
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-quartz_nativeantimony-*",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-medium-quartz_nativeantimony-*",
+    "value": 15
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-rich-quartz_nativeantimony-*",
+    "value": 20
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-quartz_nativeantimony-*",
+    "value": 25
+  },
+
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-*",
+    "value": 15
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-*",
+    "value": 20
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-*",
+    "value": 25
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/attributes/metalUnitsByType/ore-poor-*",
+    "value": 30
+  },
+
+
+
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-quartz_nativeantimony-phyllite"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-quartz_nativeantimony-phyllite"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-quartz_nativeantimony-phyllite"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-bountiful-quartz_nativeantimony-phyllite"
+  },
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-quartz_stibnite-shale"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-quartz_stibnite-shale"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-quartz_stibnite-shale"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-bountiful-quartz_stibnite-shale"
+  },
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-quartz_stibnite-claystone"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-quartz_stibnite-claystone"
+  },
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-quartz_stibnite-limestone"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-quartz_stibnite-limestone"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-quartz_stibnite-limestone"
+  },
+
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-quartz_stibnite-granite"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-quartz_stibnite-granite"
+  },
+  {
+    "op": "add",
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-quartz_stibnite-granite"
+  }
+]

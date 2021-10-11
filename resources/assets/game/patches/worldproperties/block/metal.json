@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/metal.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "antimony",
+      "tier": 0
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/metal.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "pewter",
+      "tier": 0
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:worldproperties/block/metal.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "leadedpewter",
+      "tier": 0
+    }
+  }
+]
