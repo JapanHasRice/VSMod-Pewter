@@ -12,7 +12,7 @@
       "attributes": {
         "randomTries": { "avg": 20 },
         "placeblock": {
-          "code": "ore-*quartz_nativeantimony-{rock}",
+          "code": "ore-*-quartz_nativeantimony-{rock}",
           "name": "grade",
           "allowedVariants": ["poor", "medium", "rich", "bountiful"]
         },
@@ -34,7 +34,7 @@
       "attributes": {
         "randomTries": { "avg": 20 },
         "placeblock": {
-          "code": "ore-*quartz_stibnite-{rock}",
+          "code": "ore-*-quartz_stibnite-{rock}",
           "name": "grade",
           "allowedVariants": ["poor", "medium", "rich", "bountiful"]
         },
