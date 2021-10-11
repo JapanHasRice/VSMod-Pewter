@@ -1,0 +1,11 @@
+{
+	"ingredients": [
+		{ "type": "item", "code": "ingot-copper", "minratio": 0.01, "maxratio": 0.02  },
+		{ "type": "item", "code": "ingot-antimony", "minratio": 0.04, "maxratio": 0.08  },
+		{ "type": "item", "code": "ingot-tin", "minratio": 0.90, "maxratio": 0.95  }
+	],
+	"output": {
+		"type": "item",
+		"code": "ingot-pewter"
+	}
+}
